@@ -1,2 +1,17 @@
-# IME_Flash
-Japanese IME status visualization app. Windows only.
+# IME Flash
+
+フォーカスが合っているアプリのIME状態を可視化するツールです。  
+自分のためだけに作りましたが、よろしければ。  
+
+## 動作環境
+Windows 10  
+Windows 11  
+
+## インストール
+ダウンロードしてzipファイルを解凍してください。
+
+## 使用方法
+ime.exeを実行してください。  
+タスクトレイに「A」の文字が出たら大丈夫です。  
+右クリックでメニューが出ます。  
+あとはだいたいわかります。  
